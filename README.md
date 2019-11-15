@@ -3,4 +3,6 @@ Mobile App that connects individuals with opioid abuse disorders with treatment,
 (React Native)
 
 Utilizes react-native-maps api to connect individuals with providers nearest to them. 
-![Screenshot](assets/s1.png)
+<p align="center">
+  <img src="/assets/s1.png" width="350" title="hover text">
+</p>
